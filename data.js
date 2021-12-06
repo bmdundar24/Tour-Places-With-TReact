@@ -2,7 +2,7 @@ export const data = [
   {
     id: 1,
     title: "New York",
-    desc:
+    desc: 
       "Home to the Statue of Liberty, Empire State Building, Central Park, Times Square, New York is the most populous city in the USA. We have a lot to tell about the city where city lights illuminate the sky.",
     image:
       "https://cdn.pixabay.com/photo/2017/06/07/15/47/new-york-city-2380683_960_720.jpg",
